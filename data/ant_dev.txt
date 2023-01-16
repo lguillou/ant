@@ -1,0 +1,888 @@
+Jean, shrank, the hat	Jean, stretched, the hat	antonym
+Gael, stretched, the sweater	Gael, shrank, the sweater	antonym
+Casey, shrank, the hat	Casey, changed, the hat	directional_entailment
+Frankie, changed, the t-shirt	Frankie, shrank, the t-shirt	directional_non-entailment
+Ashley, stretched, the cloth	Ashley, changed, the cloth	directional_entailment
+Gale, changed, the cloth	Gale, stretched, the cloth	directional_non-entailment
+Bobbie, shrank, the hat	Bobbie, modified, the hat	directional_entailment
+Alex, modified, the t-shirt	Alex, shrank, the t-shirt	directional_non-entailment
+Ali, stretched, the jacket	Ali, modified, the jacket	directional_entailment
+Aiden, modified, the sweater	Aiden, stretched, the sweater	directional_non-entailment
+Andy, shrank, the t-shirt	Andy, damaged, the t-shirt	directional_entailment
+Jamie, damaged, the jacket	Jamie, shrank, the jacket	directional_non-entailment
+Ali, stretched, the cloth	Ali, damaged, the cloth	directional_entailment
+Jamie, damaged, the jacket	Jamie, stretched, the jacket	directional_non-entailment
+Kelly, shrank, the hat	Kelly, altered, the hat	directional_entailment
+Alex, altered, the sweater	Alex, shrank, the sweater	directional_non-entailment
+Casey, stretched, the jacket	Casey, altered, the jacket	directional_entailment
+Casey, altered, the cloth	Casey, stretched, the cloth	directional_non-entailment
+Jackie, agreed with, Ashley	Jackie, disagreed with, Ashley	antonym
+Sam, disagreed with, Jamie	Sam, agreed with, Jamie	antonym
+Kelly, agreed with, Bobbie	Kelly, differed with, Bobbie	antonym
+Ali, differed with, Andy	Ali, agreed with, Andy	antonym
+Gale, concurred with, Morgan	Gale, disagreed with, Morgan	antonym
+Ashley, disagreed with, Jean	Ashley, concurred with, Jean	antonym
+Gale, concurred with, Jamie	Gale, differed with, Jamie	antonym
+Morgan, differed with, Kelly	Morgan, concurred with, Kelly	antonym
+Jackie, agreed with, Morgan	Jackie, discussed with, Morgan	directional_entailment
+Gale, discussed with, Frankie	Gale, agreed with, Frankie	directional_non-entailment
+Jean, concurred with, Jamie	Jean, discussed with, Jamie	directional_entailment
+Elliot, discussed with, Jamie	Elliot, concurred with, Jamie	directional_non-entailment
+Bobbie, disagreed with, Sam	Bobbie, discussed with, Sam	directional_entailment
+Gael, discussed with, Morgan	Gael, disagreed with, Morgan	directional_non-entailment
+Aiden, differed with, Elliot	Aiden, discussed with, Elliot	directional_entailment
+Casey, discussed with, Elliot	Casey, differed with, Elliot	directional_non-entailment
+Gael, agreed with, Jackie	Gael, talked to, Jackie	directional_entailment
+Andy, talked to, Cameron	Andy, agreed with, Cameron	directional_non-entailment
+Elliot, concurred with, Bobbie	Elliot, talked to, Bobbie	directional_entailment
+Elliot, talked to, Bobbie	Elliot, concurred with, Bobbie	directional_non-entailment
+Jackie, disagreed with, Frankie	Jackie, talked to, Frankie	directional_entailment
+Billie, talked to, Jackie	Billie, disagreed with, Jackie	directional_non-entailment
+Gael, differed with, Cameron	Gael, talked to, Cameron	directional_entailment
+Andy, talked to, Jackie	Andy, differed with, Jackie	directional_non-entailment
+Ashley, agreed with, Morgan	Ashley, knew, Morgan	directional_entailment
+Cameron, knew, Casey	Cameron, agreed with, Casey	directional_non-entailment
+Robin, concurred with, Gael	Robin, knew, Gael	directional_entailment
+Frankie, knew, Jackie	Frankie, concurred with, Jackie	directional_non-entailment
+Cameron, disagreed with, Bobbie	Cameron, knew, Bobbie	directional_entailment
+Ashley, knew, Alex	Ashley, disagreed with, Alex	directional_non-entailment
+Alex, differed with, Jamie	Alex, knew, Jamie	directional_entailment
+Morgan, knew, Bobbie	Morgan, differed with, Bobbie	directional_non-entailment
+Charlie, agreed with, Gale	Charlie, conversed with, Gale	directional_entailment
+Sam, conversed with, Ali	Sam, agreed with, Ali	directional_non-entailment
+Frankie, concurred with, Jean	Frankie, conversed with, Jean	directional_entailment
+Charlie, conversed with, Bobbie	Charlie, concurred with, Bobbie	directional_non-entailment
+Andy, disagreed with, Bobbie	Andy, conversed with, Bobbie	directional_entailment
+Jamie, conversed with, Frankie	Jamie, disagreed with, Frankie	directional_non-entailment
+Andy, differed with, Gale	Andy, conversed with, Gale	directional_entailment
+Jean, conversed with, Bobbie	Jean, differed with, Bobbie	directional_non-entailment
+Ashley, agreed with, Elliot	Ashley, concurred with, Elliot	paraphrase
+Elliot, concurred with, Cameron	Elliot, agreed with, Cameron	paraphrase
+Bobbie, disagreed with, Ashley	Bobbie, differed with, Ashley	paraphrase
+Alex, differed with, Jackie	Alex, disagreed with, Jackie	paraphrase
+Bobbie, cheered for, Morgan	Bobbie, complained about, Morgan	antonym
+Ali, complained about, Gale	Ali, cheered for, Gale	antonym
+Kelly, cheered for, Elliot	Kelly, grumbled about, Elliot	antonym
+Ali, grumbled about, Kelly	Ali, cheered for, Kelly	antonym
+Charlie, applauded, Andy	Charlie, complained about, Andy	antonym
+Alex, complained about, Aiden	Alex, applauded, Aiden	antonym
+Andy, applauded, Gale	Andy, grumbled about, Gale	antonym
+Cameron, grumbled about, Aiden	Cameron, applauded, Aiden	antonym
+Frankie, cheered for, Bobbie	Frankie, reacted to, Bobbie	directional_entailment
+Cameron, reacted to, Bobbie	Cameron, cheered for, Bobbie	directional_non-entailment
+Ashley, applauded, Bobbie	Ashley, reacted to, Bobbie	directional_entailment
+Bobbie, reacted to, Kelly	Bobbie, applauded, Kelly	directional_non-entailment
+Sam, complained about, Charlie	Sam, reacted to, Charlie	directional_entailment
+Morgan, reacted to, Casey	Morgan, complained about, Casey	directional_non-entailment
+Andy, grumbled about, Casey	Andy, reacted to, Casey	directional_entailment
+Gale, reacted to, Cameron	Gale, grumbled about, Cameron	directional_non-entailment
+Casey, cheered for, Robin	Casey, knew, Robin	directional_entailment
+Ali, knew, Robin	Ali, cheered for, Robin	directional_non-entailment
+Billie, applauded, Jean	Billie, knew, Jean	directional_entailment
+Gale, knew, Morgan	Gale, applauded, Morgan	directional_non-entailment
+Alex, complained about, Frankie	Alex, knew, Frankie	directional_entailment
+Bobbie, knew, Jean	Bobbie, complained about, Jean	directional_non-entailment
+Casey, grumbled about, Jean	Casey, knew, Jean	directional_entailment
+Ali, knew, Charlie	Ali, grumbled about, Charlie	directional_non-entailment
+Charlie, cheered for, Sam	Charlie, applauded, Sam	paraphrase
+Ali, applauded, Casey	Ali, cheered for, Casey	paraphrase
+Frankie, complained about, Jackie	Frankie, grumbled about, Jackie	paraphrase
+Frankie, grumbled about, Casey	Frankie, complained about, Casey	paraphrase
+The onlookers, applauded, the actors	The onlookers, booed, the actors	antonym
+The onlookers, booed, the actors	The onlookers, applauded, the actors	antonym
+The audience, applauded, the comedian	The audience, hissed at, the comedian	antonym
+The onlookers, hissed at, the comedian	The onlookers, applauded, the comedian	antonym
+The onlookers, applauded, the actors	The onlookers, jeered at, the actors	antonym
+The onlookers, jeered at, the comedian	The onlookers, applauded, the comedian	antonym
+The onlookers, cheered on, the jester	The onlookers, booed, the jester	antonym
+The audience, booed, the actors	The audience, cheered on, the actors	antonym
+The onlookers, cheered on, the jester	The onlookers, hissed at, the jester	antonym
+The onlookers, hissed at, the actors	The onlookers, cheered on, the actors	antonym
+The audience, cheered on, the jester	The audience, jeered at, the jester	antonym
+The audience, jeered at, the comedian	The audience, cheered on, the comedian	antonym
+The audience, clapped for, the comedian	The audience, booed, the comedian	antonym
+The audience, booed, the actors	The audience, clapped for, the actors	antonym
+The audience, clapped for, the comedian	The audience, hissed at, the comedian	antonym
+The audience, hissed at, the comedian	The audience, clapped for, the comedian	antonym
+The audience, clapped for, the actors	The audience, jeered at, the actors	antonym
+The onlookers, jeered at, the actors	The onlookers, clapped for, the actors	antonym
+The audience, applauded, the jester	The audience, watched, the jester	directional_entailment
+The onlookers, watched, the actors	The onlookers, applauded, the actors	directional_non-entailment
+The onlookers, cheered on, the actors	The onlookers, watched, the actors	directional_entailment
+The audience, watched, the actors	The audience, cheered on, the actors	directional_non-entailment
+The onlookers, clapped for, the comedian	The onlookers, watched, the comedian	directional_entailment
+The onlookers, watched, the actors	The onlookers, clapped for, the actors	directional_non-entailment
+The audience, booed, the actors	The audience, watched, the actors	directional_entailment
+The audience, watched, the comedian	The audience, booed, the comedian	directional_non-entailment
+The onlookers, hissed at, the comedian	The onlookers, watched, the comedian	directional_entailment
+The onlookers, watched, the jester	The onlookers, hissed at, the jester	directional_non-entailment
+The audience, jeered at, the jester	The audience, watched, the jester	directional_entailment
+The onlookers, watched, the jester	The onlookers, jeered at, the jester	directional_non-entailment
+The audience, applauded, the comedian	The audience, observed, the comedian	directional_entailment
+The audience, observed, the actors	The audience, applauded, the actors	directional_non-entailment
+The onlookers, cheered on, the comedian	The onlookers, observed, the comedian	directional_entailment
+The audience, observed, the comedian	The audience, cheered on, the comedian	directional_non-entailment
+The onlookers, clapped for, the actors	The onlookers, observed, the actors	directional_entailment
+The audience, observed, the actors	The audience, clapped for, the actors	directional_non-entailment
+The audience, booed, the comedian	The audience, observed, the comedian	directional_entailment
+The onlookers, observed, the actors	The onlookers, booed, the actors	directional_non-entailment
+The audience, hissed at, the actors	The audience, observed, the actors	directional_entailment
+The onlookers, observed, the comedian	The onlookers, hissed at, the comedian	directional_non-entailment
+The onlookers, jeered at, the actors	The onlookers, observed, the actors	directional_entailment
+The onlookers, observed, the jester	The onlookers, jeered at, the jester	directional_non-entailment
+The audience, applauded, the actors	The audience, cheered on, the actors	paraphrase
+The onlookers, cheered on, the actors	The onlookers, applauded, the actors	paraphrase
+The onlookers, applauded, the comedian	The onlookers, clapped for, the comedian	paraphrase
+The onlookers, clapped for, the jester	The onlookers, applauded, the jester	paraphrase
+The onlookers, cheered on, the comedian	The onlookers, clapped for, the comedian	paraphrase
+The audience, clapped for, the jester	The audience, cheered on, the jester	paraphrase
+The onlookers, booed, the comedian	The onlookers, hissed at, the comedian	paraphrase
+The onlookers, hissed at, the actors	The onlookers, booed, the actors	paraphrase
+The onlookers, booed, the actors	The onlookers, jeered at, the actors	paraphrase
+The audience, jeered at, the comedian	The audience, booed, the comedian	paraphrase
+The audience, hissed at, the actors	The audience, jeered at, the actors	paraphrase
+The audience, jeered at, the actors	The audience, hissed at, the actors	paraphrase
+The military, attacked, the castle	The military, defended, the castle	antonym
+The unit, defended, the ship	The unit, attacked, the ship	antonym
+The unit, attacked, the castle	The unit, protected, the castle	antonym
+The squadron, protected, the ship	The squadron, attacked, the ship	antonym
+The military, attacked, the fort	The military, guarded, the fort	antonym
+The army, guarded, the castle	The army, attacked, the castle	antonym
+The military, attacked, the fort	The military, fended for, the fort	antonym
+The navy, fended for, the hiding place	The navy, attacked, the hiding place	antonym
+The army, attacked, the hiding place	The army, supported, the hiding place	antonym
+The unit, supported, the fort	The unit, attacked, the fort	antonym
+The navy, assailed, the castle	The navy, defended, the castle	antonym
+The navy, defended, the fort	The navy, assailed, the fort	antonym
+The army, assailed, the city	The army, protected, the city	antonym
+The squadron, protected, the tower	The squadron, assailed, the tower	antonym
+The navy, assailed, the fort	The navy, guarded, the fort	antonym
+The unit, guarded, the tower	The unit, assailed, the tower	antonym
+The navy, assailed, the fort	The navy, fended for, the fort	antonym
+The unit, fended for, the city	The unit, assailed, the city	antonym
+The unit, assailed, the beach	The unit, supported, the beach	antonym
+The navy, supported, the fort	The navy, assailed, the fort	antonym
+The military, attacked, the hiding place	The military, wanted, the hiding place	directional_entailment
+The army, wanted, the fort	The army, attacked, the fort	directional_non-entailment
+The navy, assailed, the castle	The navy, wanted, the castle	directional_entailment
+The unit, wanted, the hiding place	The unit, assailed, the hiding place	directional_non-entailment
+The unit, defended, the fort	The unit, wanted, the fort	directional_entailment
+The military, wanted, the hiding place	The military, defended, the hiding place	directional_non-entailment
+The navy, protected, the hiding place	The navy, wanted, the hiding place	directional_entailment
+The navy, wanted, the ship	The navy, protected, the ship	directional_non-entailment
+The military, guarded, the castle	The military, wanted, the castle	directional_entailment
+The navy, wanted, the tower	The navy, guarded, the tower	directional_non-entailment
+The squadron, fended for, the beach	The squadron, wanted, the beach	directional_entailment
+The army, wanted, the city	The army, fended for, the city	directional_non-entailment
+The squadron, supported, the fort	The squadron, wanted, the fort	directional_entailment
+The squadron, wanted, the hiding place	The squadron, supported, the hiding place	directional_non-entailment
+The navy, attacked, the hiding place	The navy, needed, the hiding place	directional_entailment
+The army, needed, the tower	The army, attacked, the tower	directional_non-entailment
+The army, assailed, the ship	The army, needed, the ship	directional_entailment
+The squadron, needed, the tower	The squadron, assailed, the tower	directional_non-entailment
+The unit, defended, the ship	The unit, needed, the ship	directional_entailment
+The squadron, needed, the ship	The squadron, defended, the ship	directional_non-entailment
+The military, protected, the castle	The military, needed, the castle	directional_entailment
+The unit, needed, the ship	The unit, protected, the ship	directional_non-entailment
+The squadron, guarded, the beach	The squadron, needed, the beach	directional_entailment
+The unit, needed, the castle	The unit, guarded, the castle	directional_non-entailment
+The unit, fended for, the city	The unit, needed, the city	directional_entailment
+The navy, needed, the city	The navy, fended for, the city	directional_non-entailment
+The unit, supported, the ship	The unit, needed, the ship	directional_entailment
+The navy, needed, the ship	The navy, supported, the ship	directional_non-entailment
+The unit, attacked, the beach	The unit, assailed, the beach	paraphrase
+The army, assailed, the hiding place	The army, attacked, the hiding place	paraphrase
+The squadron, defended, the fort	The squadron, protected, the fort	paraphrase
+The army, protected, the city	The army, defended, the city	paraphrase
+The unit, defended, the fort	The unit, guarded, the fort	paraphrase
+The squadron, guarded, the castle	The squadron, defended, the castle	paraphrase
+The squadron, defended, the castle	The squadron, fended for, the castle	paraphrase
+The military, fended for, the tower	The military, defended, the tower	paraphrase
+The squadron, defended, the beach	The squadron, supported, the beach	paraphrase
+The squadron, supported, the tower	The squadron, defended, the tower	paraphrase
+The unit, protected, the ship	The unit, guarded, the ship	paraphrase
+The army, guarded, the ship	The army, protected, the ship	paraphrase
+The squadron, protected, the castle	The squadron, fended for, the castle	paraphrase
+The army, fended for, the beach	The army, protected, the beach	paraphrase
+The military, protected, the city	The military, supported, the city	paraphrase
+The unit, supported, the hiding place	The unit, protected, the hiding place	paraphrase
+The navy, guarded, the hiding place	The navy, fended for, the hiding place	paraphrase
+The unit, fended for, the beach	The unit, guarded, the beach	paraphrase
+The navy, guarded, the castle	The navy, supported, the castle	paraphrase
+The unit, supported, the city	The unit, guarded, the city	paraphrase
+The military, fended for, the fort	The military, supported, the fort	paraphrase
+The military, supported, the beach	The military, fended for, the beach	paraphrase
+Sailing, displeased, Sam	Sailing, pleased, Sam	antonym
+Dancing, pleased, Ali	Dancing, displeased, Ali	antonym
+Swimming, displeased, Frankie	Swimming, satisfied, Frankie	antonym
+Sailing, satisfied, Robin	Sailing, displeased, Robin	antonym
+Dancing, displeased, Robin	Dancing, delighted, Robin	antonym
+Running, delighted, Robin	Running, displeased, Robin	antonym
+Dancing, displeased, Andy	Dancing, gladdened, Andy	antonym
+Running, gladdened, Ali	Running, displeased, Ali	antonym
+Cycling, displeased, Gale	Cycling, gratified, Gale	antonym
+Swimming, gratified, Elliot	Swimming, displeased, Elliot	antonym
+Dancing, displeased, Kelly	Dancing, soothed, Kelly	antonym
+Swimming, soothed, Morgan	Swimming, displeased, Morgan	antonym
+Cycling, dissatisfied, Cameron	Cycling, pleased, Cameron	antonym
+Sailing, pleased, Jamie	Sailing, dissatisfied, Jamie	antonym
+Sailing, dissatisfied, Aiden	Sailing, satisfied, Aiden	antonym
+Swimming, satisfied, Jackie	Swimming, dissatisfied, Jackie	antonym
+Sailing, dissatisfied, Cameron	Sailing, delighted, Cameron	antonym
+Running, delighted, Jamie	Running, dissatisfied, Jamie	antonym
+Dancing, dissatisfied, Jackie	Dancing, gladdened, Jackie	antonym
+Sailing, gladdened, Ali	Sailing, dissatisfied, Ali	antonym
+Dancing, dissatisfied, Jamie	Dancing, gratified, Jamie	antonym
+Running, gratified, Frankie	Running, dissatisfied, Frankie	antonym
+Dancing, dissatisfied, Aiden	Dancing, soothed, Aiden	antonym
+Cycling, soothed, Jean	Cycling, dissatisfied, Jean	antonym
+Running, annoyed, Gael	Running, pleased, Gael	antonym
+Sailing, pleased, Alex	Sailing, annoyed, Alex	antonym
+Dancing, annoyed, Ashley	Dancing, satisfied, Ashley	antonym
+Sailing, satisfied, Gael	Sailing, annoyed, Gael	antonym
+Cycling, annoyed, Ali	Cycling, delighted, Ali	antonym
+Swimming, delighted, Charlie	Swimming, annoyed, Charlie	antonym
+Running, annoyed, Ashley	Running, gladdened, Ashley	antonym
+Swimming, gladdened, Frankie	Swimming, annoyed, Frankie	antonym
+Sailing, annoyed, Sam	Sailing, gratified, Sam	antonym
+Sailing, gratified, Bobbie	Sailing, annoyed, Bobbie	antonym
+Dancing, annoyed, Casey	Dancing, soothed, Casey	antonym
+Swimming, soothed, Casey	Swimming, annoyed, Casey	antonym
+Cycling, irritated, Jackie	Cycling, pleased, Jackie	antonym
+Sailing, pleased, Morgan	Sailing, irritated, Morgan	antonym
+Sailing, irritated, Aiden	Sailing, satisfied, Aiden	antonym
+Sailing, satisfied, Gale	Sailing, irritated, Gale	antonym
+Cycling, irritated, Billie	Cycling, delighted, Billie	antonym
+Sailing, delighted, Jean	Sailing, irritated, Jean	antonym
+Swimming, irritated, Gael	Swimming, gladdened, Gael	antonym
+Cycling, gladdened, Ashley	Cycling, irritated, Ashley	antonym
+Swimming, irritated, Billie	Swimming, gratified, Billie	antonym
+Dancing, gratified, Cameron	Dancing, irritated, Cameron	antonym
+Running, irritated, Robin	Running, soothed, Robin	antonym
+Swimming, soothed, Gael	Swimming, irritated, Gael	antonym
+Sailing, displeased, Kelly	Sailing, affected, Kelly	directional_entailment
+Swimming, affected, Jean	Swimming, displeased, Jean	directional_non-entailment
+Dancing, dissatisfied, Gael	Dancing, affected, Gael	directional_entailment
+Swimming, affected, Gale	Swimming, dissatisfied, Gale	directional_non-entailment
+Swimming, annoyed, Kelly	Swimming, affected, Kelly	directional_entailment
+Swimming, affected, Gale	Swimming, annoyed, Gale	directional_non-entailment
+Running, irritated, Aiden	Running, affected, Aiden	directional_entailment
+Dancing, affected, Ashley	Dancing, irritated, Ashley	directional_non-entailment
+Running, pleased, Gale	Running, affected, Gale	directional_entailment
+Running, affected, Jackie	Running, pleased, Jackie	directional_non-entailment
+Swimming, satisfied, Gael	Swimming, affected, Gael	directional_entailment
+Running, affected, Cameron	Running, satisfied, Cameron	directional_non-entailment
+Swimming, delighted, Gale	Swimming, affected, Gale	directional_entailment
+Sailing, affected, Charlie	Sailing, delighted, Charlie	directional_non-entailment
+Dancing, gladdened, Cameron	Dancing, affected, Cameron	directional_entailment
+Swimming, affected, Cameron	Swimming, gladdened, Cameron	directional_non-entailment
+Swimming, gratified, Gale	Swimming, affected, Gale	directional_entailment
+Running, affected, Morgan	Running, gratified, Morgan	directional_non-entailment
+Dancing, soothed, Elliot	Dancing, affected, Elliot	directional_entailment
+Running, affected, Bobbie	Running, soothed, Bobbie	directional_non-entailment
+Dancing, displeased, Jackie	Dancing, dissatisfied, Jackie	paraphrase
+Cycling, dissatisfied, Casey	Cycling, displeased, Casey	paraphrase
+Cycling, displeased, Morgan	Cycling, annoyed, Morgan	paraphrase
+Swimming, annoyed, Charlie	Swimming, displeased, Charlie	paraphrase
+Sailing, displeased, Frankie	Sailing, irritated, Frankie	paraphrase
+Swimming, irritated, Sam	Swimming, displeased, Sam	paraphrase
+Sailing, dissatisfied, Gael	Sailing, annoyed, Gael	paraphrase
+Sailing, annoyed, Cameron	Sailing, dissatisfied, Cameron	paraphrase
+Swimming, dissatisfied, Gale	Swimming, irritated, Gale	paraphrase
+Running, irritated, Sam	Running, dissatisfied, Sam	paraphrase
+Dancing, annoyed, Ali	Dancing, irritated, Ali	paraphrase
+Dancing, irritated, Bobbie	Dancing, annoyed, Bobbie	paraphrase
+Swimming, pleased, Andy	Swimming, satisfied, Andy	paraphrase
+Dancing, satisfied, Ali	Dancing, pleased, Ali	paraphrase
+Cycling, pleased, Elliot	Cycling, delighted, Elliot	paraphrase
+Running, delighted, Frankie	Running, pleased, Frankie	paraphrase
+Swimming, pleased, Kelly	Swimming, gladdened, Kelly	paraphrase
+Running, gladdened, Aiden	Running, pleased, Aiden	paraphrase
+Sailing, pleased, Jamie	Sailing, gratified, Jamie	paraphrase
+Dancing, gratified, Jackie	Dancing, pleased, Jackie	paraphrase
+Running, pleased, Elliot	Running, soothed, Elliot	paraphrase
+Swimming, soothed, Jackie	Swimming, pleased, Jackie	paraphrase
+Swimming, satisfied, Alex	Swimming, delighted, Alex	paraphrase
+Sailing, delighted, Gael	Sailing, satisfied, Gael	paraphrase
+Running, satisfied, Jackie	Running, gladdened, Jackie	paraphrase
+Sailing, gladdened, Aiden	Sailing, satisfied, Aiden	paraphrase
+Running, satisfied, Gael	Running, gratified, Gael	paraphrase
+Cycling, gratified, Kelly	Cycling, satisfied, Kelly	paraphrase
+Cycling, satisfied, Billie	Cycling, soothed, Billie	paraphrase
+Swimming, soothed, Jamie	Swimming, satisfied, Jamie	paraphrase
+Dancing, delighted, Ashley	Dancing, gladdened, Ashley	paraphrase
+Sailing, gladdened, Alex	Sailing, delighted, Alex	paraphrase
+Dancing, delighted, Elliot	Dancing, gratified, Elliot	paraphrase
+Swimming, gratified, Bobbie	Swimming, delighted, Bobbie	paraphrase
+Running, delighted, Robin	Running, soothed, Robin	paraphrase
+Swimming, soothed, Ashley	Swimming, delighted, Ashley	paraphrase
+Cycling, gladdened, Jackie	Cycling, gratified, Jackie	paraphrase
+Dancing, gratified, Sam	Dancing, gladdened, Sam	paraphrase
+Dancing, gladdened, Sam	Dancing, soothed, Sam	paraphrase
+Cycling, soothed, Charlie	Cycling, gladdened, Charlie	paraphrase
+Dancing, gratified, Gale	Dancing, soothed, Gale	paraphrase
+Swimming, soothed, Casey	Swimming, gratified, Casey	paraphrase
+Andy, boycotted, Samsung	Andy, patronized, Samsung	antonym
+Jeff Bezos, patronized, Samsung	Jeff Bezos, boycotted, Samsung	antonym
+Nestle, boycotted, Samsung	Nestle, traded with, Samsung	antonym
+Frankie, traded with, Microsoft	Frankie, boycotted, Microsoft	antonym
+Kelly, boycotted, Amazon	Kelly, dealt with, Amazon	antonym
+Bill Gates, dealt with, Ford	Bill Gates, boycotted, Ford	antonym
+Costco, boycotted, Ford	Costco, bought from, Ford	antonym
+Ashley, bought from, Apple	Ashley, boycotted, Apple	antonym
+Dyson, boycotted, Samsung	Dyson, supported, Samsung	antonym
+Kelly, supported, Facebook	Kelly, boycotted, Facebook	antonym
+Serena Williams, boycotted, Samsung	Serena Williams, had an opinion on, Samsung	directional_entailment
+Samsung, had an opinion on, Bosch	Samsung, boycotted, Bosch	directional_non-entailment
+Andy, patronized, Twitter	Andy, had an opinion on, Twitter	directional_entailment
+Twitter, had an opinion on, Nestle	Twitter, patronized, Nestle	directional_non-entailment
+Angela Merkel, traded with, Apple	Angela Merkel, had an opinion on, Apple	directional_entailment
+Bill Gates, had an opinion on, Toyota	Bill Gates, traded with, Toyota	directional_non-entailment
+Jean, dealt with, Samsung	Jean, had an opinion on, Samsung	directional_entailment
+Twitter, had an opinion on, Heinz	Twitter, dealt with, Heinz	directional_non-entailment
+Ford, bought from, Walmart	Ford, had an opinion on, Walmart	directional_entailment
+Unilever, had an opinion on, Amazon	Unilever, bought from, Amazon	directional_non-entailment
+Apple, supported, Samsung	Apple, had an opinion on, Samsung	directional_entailment
+Robin, had an opinion on, Unilever	Robin, supported, Unilever	directional_non-entailment
+Gael, boycotted, Heinz	Gael, considered, Heinz	directional_entailment
+Jackie, considered, Costco	Jackie, boycotted, Costco	directional_non-entailment
+Jennifer Lawrence, patronized, Amazon	Jennifer Lawrence, considered, Amazon	directional_entailment
+Jackie, considered, Bosch	Jackie, patronized, Bosch	directional_non-entailment
+Serena Williams, traded with, Google	Serena Williams, considered, Google	directional_entailment
+Robin, considered, Google	Robin, traded with, Google	directional_non-entailment
+Costco, dealt with, Dyson	Costco, considered, Dyson	directional_entailment
+Alex, considered, Costco	Alex, dealt with, Costco	directional_non-entailment
+Serena Williams, bought from, Apple	Serena Williams, considered, Apple	directional_entailment
+Aiden, considered, Toyota	Aiden, bought from, Toyota	directional_non-entailment
+Heinz, supported, Bosch	Heinz, considered, Bosch	directional_entailment
+Casey, considered, Bosch	Casey, supported, Bosch	directional_non-entailment
+Jeff Bezos, boycotted, Heinz	Jeff Bezos, took a position on, Heinz	directional_entailment
+Angela Merkel, took a position on, Microsoft	Angela Merkel, boycotted, Microsoft	directional_non-entailment
+Serena Williams, patronized, Toyota	Serena Williams, took a position on, Toyota	directional_entailment
+Bill Gates, took a position on, Apple	Bill Gates, patronized, Apple	directional_non-entailment
+Aiden, traded with, Ford	Aiden, took a position on, Ford	directional_entailment
+Apple, took a position on, Costco	Apple, traded with, Costco	directional_non-entailment
+Walmart, dealt with, Toyota	Walmart, took a position on, Toyota	directional_entailment
+Volkswagen, took a position on, Samsung	Volkswagen, dealt with, Samsung	directional_non-entailment
+Ali, bought from, Volkswagen	Ali, took a position on, Volkswagen	directional_entailment
+Walmart, took a position on, Apple	Walmart, bought from, Apple	directional_non-entailment
+Apple, supported, Walmart	Apple, took a position on, Walmart	directional_entailment
+Bill Gates, took a position on, Apple	Bill Gates, supported, Apple	directional_non-entailment
+Apple, patronized, Twitter	Apple, traded with, Twitter	paraphrase
+Amazon, traded with, Costco	Amazon, patronized, Costco	paraphrase
+Casey, patronized, Ford	Casey, dealt with, Ford	paraphrase
+Bill Gates, dealt with, Costco	Bill Gates, patronized, Costco	paraphrase
+Facebook, patronized, Bosch	Facebook, bought from, Bosch	paraphrase
+Walmart, bought from, Costco	Walmart, patronized, Costco	paraphrase
+Andy, patronized, Apple	Andy, supported, Apple	paraphrase
+Amazon, supported, Dyson	Amazon, patronized, Dyson	paraphrase
+Donald Trump, traded with, Bosch	Donald Trump, dealt with, Bosch	paraphrase
+Walmart, dealt with, Bosch	Walmart, traded with, Bosch	paraphrase
+Ford, traded with, Heinz	Ford, bought from, Heinz	paraphrase
+Jeff Bezos, bought from, Facebook	Jeff Bezos, traded with, Facebook	paraphrase
+Elliot, traded with, Costco	Elliot, supported, Costco	paraphrase
+Angela Merkel, supported, Apple	Angela Merkel, traded with, Apple	paraphrase
+Gael, dealt with, Heinz	Gael, bought from, Heinz	paraphrase
+Bill Gates, bought from, Microsoft	Bill Gates, dealt with, Microsoft	paraphrase
+Jeff Bezos, dealt with, Heinz	Jeff Bezos, supported, Heinz	paraphrase
+Aiden, supported, Unilever	Aiden, dealt with, Unilever	paraphrase
+Costco, bought from, Facebook	Costco, supported, Facebook	paraphrase
+Walmart, supported, Volkswagen	Walmart, bought from, Volkswagen	paraphrase
+Frankie, failed, the assessment	Frankie, passed, the assessment	antonym
+Elliot, passed, the assessment	Elliot, failed, the assessment	antonym
+Andy, failed, the assessment	Andy, succeeded at, the assessment	antonym
+Gale, succeeded at, the assessment	Gale, failed, the assessment	antonym
+Robin, fell short at, the midterm	Robin, passed, the midterm	antonym
+Kelly, passed, the assessment	Kelly, fell short at, the assessment	antonym
+Casey, fell short at, the test	Casey, succeeded at, the test	antonym
+Jamie, succeeded at, the final	Jamie, fell short at, the final	antonym
+Sam, flunked, the midterm	Sam, passed, the midterm	antonym
+Kelly, passed, the midterm	Kelly, flunked, the midterm	antonym
+Bobbie, flunked, the exam	Bobbie, succeeded at, the exam	antonym
+Frankie, succeeded at, the assessment	Frankie, flunked, the assessment	antonym
+Morgan, failed, the final	Morgan, tried, the final	directional_entailment
+Billie, tried, the final	Billie, failed, the final	directional_non-entailment
+Cameron, fell short at, the final	Cameron, tried, the final	directional_entailment
+Alex, tried, the assessment	Alex, fell short at, the assessment	directional_non-entailment
+Andy, flunked, the final	Andy, tried, the final	directional_entailment
+Casey, tried, the exam	Casey, flunked, the exam	directional_non-entailment
+Sam, passed, the test	Sam, tried, the test	directional_entailment
+Elliot, tried, the assessment	Elliot, passed, the assessment	directional_non-entailment
+Gale, succeeded at, the final	Gale, tried, the final	directional_entailment
+Robin, tried, the assessment	Robin, succeeded at, the assessment	directional_non-entailment
+Gael, failed, the test	Gael, attempted, the test	directional_entailment
+Cameron, attempted, the final	Cameron, failed, the final	directional_non-entailment
+Gael, fell short at, the midterm	Gael, attempted, the midterm	directional_entailment
+Gael, attempted, the test	Gael, fell short at, the test	directional_non-entailment
+Gael, flunked, the test	Gael, attempted, the test	directional_entailment
+Frankie, attempted, the final	Frankie, flunked, the final	directional_non-entailment
+Ashley, passed, the exam	Ashley, attempted, the exam	directional_entailment
+Cameron, attempted, the midterm	Cameron, passed, the midterm	directional_non-entailment
+Andy, succeeded at, the assessment	Andy, attempted, the assessment	directional_entailment
+Casey, attempted, the final	Casey, succeeded at, the final	directional_non-entailment
+Frankie, failed, the final	Frankie, took, the final	directional_entailment
+Jamie, took, the exam	Jamie, failed, the exam	directional_non-entailment
+Jamie, fell short at, the midterm	Jamie, took, the midterm	directional_entailment
+Ali, took, the final	Ali, fell short at, the final	directional_non-entailment
+Gale, flunked, the assessment	Gale, took, the assessment	directional_entailment
+Charlie, took, the assessment	Charlie, flunked, the assessment	directional_non-entailment
+Morgan, passed, the test	Morgan, took, the test	directional_entailment
+Frankie, took, the test	Frankie, passed, the test	directional_non-entailment
+Casey, succeeded at, the exam	Casey, took, the exam	directional_entailment
+Jean, took, the test	Jean, succeeded at, the test	directional_non-entailment
+Robin, failed, the test	Robin, fell short at, the test	paraphrase
+Gale, fell short at, the midterm	Gale, failed, the midterm	paraphrase
+Kelly, failed, the final	Kelly, flunked, the final	paraphrase
+Elliot, flunked, the assessment	Elliot, failed, the assessment	paraphrase
+Morgan, fell short at, the assessment	Morgan, flunked, the assessment	paraphrase
+Jamie, flunked, the midterm	Jamie, fell short at, the midterm	paraphrase
+Morgan, passed, the test	Morgan, succeeded at, the test	paraphrase
+Ali, succeeded at, the final	Ali, passed, the final	paraphrase
+Bill Gates, broke, the promise	Bill Gates, kept, the promise	antonym
+Gale, kept, the vow	Gale, broke, the vow	antonym
+Jeff Bezos, broke, the agreement	Jeff Bezos, satisfied, the agreement	antonym
+Billie, satisfied, the promise	Billie, broke, the promise	antonym
+Jennifer Lawrence, broke, the agreement	Jennifer Lawrence, met, the agreement	antonym
+Bill Gates, met, the promise	Bill Gates, broke, the promise	antonym
+Bill Gates, violated, the agreement	Bill Gates, kept, the agreement	antonym
+Kelly, kept, the pledge	Kelly, violated, the pledge	antonym
+Jamie, violated, the vow	Jamie, satisfied, the vow	antonym
+Serena Williams, satisfied, the promise	Serena Williams, violated, the promise	antonym
+Jennifer Lawrence, violated, the promise	Jennifer Lawrence, met, the promise	antonym
+Billie, met, the promise	Billie, violated, the promise	antonym
+Jennifer Lawrence, breached, the promise	Jennifer Lawrence, kept, the promise	antonym
+Bill Gates, kept, the vow	Bill Gates, breached, the vow	antonym
+Jeff Bezos, breached, the pledge	Jeff Bezos, satisfied, the pledge	antonym
+Jackie, satisfied, the promise	Jackie, breached, the promise	antonym
+Jennifer Lawrence, breached, the promise	Jennifer Lawrence, met, the promise	antonym
+Angela Merkel, met, the promise	Angela Merkel, breached, the promise	antonym
+Jennifer Lawrence, broke, the promise	Jennifer Lawrence, made, the promise	directional_entailment
+Gael, made, the agreement	Gael, broke, the agreement	directional_non-entailment
+Angela Merkel, violated, the agreement	Angela Merkel, made, the agreement	directional_entailment
+Frankie, made, the promise	Frankie, violated, the promise	directional_non-entailment
+Angela Merkel, breached, the agreement	Angela Merkel, made, the agreement	directional_entailment
+Frankie, made, the pledge	Frankie, breached, the pledge	directional_non-entailment
+Donald Trump, kept, the agreement	Donald Trump, made, the agreement	directional_entailment
+Jennifer Lawrence, made, the agreement	Jennifer Lawrence, kept, the agreement	directional_non-entailment
+Ali, satisfied, the pledge	Ali, made, the pledge	directional_entailment
+Sam, made, the pledge	Sam, satisfied, the pledge	directional_non-entailment
+Jackie, met, the promise	Jackie, made, the promise	directional_entailment
+Ali, made, the vow	Ali, met, the vow	directional_non-entailment
+Angela Merkel, broke, the agreement	Angela Merkel, violated, the agreement	paraphrase
+Gale, violated, the vow	Gale, broke, the vow	paraphrase
+Jeff Bezos, broke, the pledge	Jeff Bezos, breached, the pledge	paraphrase
+Jean, breached, the agreement	Jean, broke, the agreement	paraphrase
+Jeff Bezos, violated, the agreement	Jeff Bezos, breached, the agreement	paraphrase
+Jeff Bezos, breached, the agreement	Jeff Bezos, violated, the agreement	paraphrase
+Serena Williams, kept, the agreement	Serena Williams, satisfied, the agreement	paraphrase
+Casey, satisfied, the vow	Casey, kept, the vow	paraphrase
+Jennifer Lawrence, kept, the vow	Jennifer Lawrence, met, the vow	paraphrase
+Angela Merkel, met, the pledge	Angela Merkel, kept, the pledge	paraphrase
+Billie, satisfied, the vow	Billie, met, the vow	paraphrase
+Cameron, met, the agreement	Cameron, satisfied, the agreement	paraphrase
+The attorney, defended, Charlie	The attorney, prosecuted, Charlie	antonym
+The lawyer, prosecuted, Kelly	The lawyer, defended, Kelly	antonym
+The barrister, defended, Jennifer Lawrence	The barrister, accused, Jennifer Lawrence	antonym
+The lawyer, accused, Jennifer Lawrence	The lawyer, defended, Jennifer Lawrence	antonym
+The attorney, defended, Gale	The attorney, argued against, Gale	antonym
+The lawyer, argued against, Jennifer Lawrence	The lawyer, defended, Jennifer Lawrence	antonym
+The attorney, protected, Serena Williams	The attorney, prosecuted, Serena Williams	antonym
+The attorney, prosecuted, Angela Merkel	The attorney, protected, Angela Merkel	antonym
+The lawyer, protected, Jamie	The lawyer, accused, Jamie	antonym
+The lawyer, accused, Jamie	The lawyer, protected, Jamie	antonym
+The barrister, protected, Donald Trump	The barrister, argued against, Donald Trump	antonym
+The barrister, argued against, Charlie	The barrister, protected, Charlie	antonym
+The lawyer, stood behind, Ashley	The lawyer, prosecuted, Ashley	antonym
+The attorney, prosecuted, Frankie	The attorney, stood behind, Frankie	antonym
+The lawyer, stood behind, Robin	The lawyer, accused, Robin	antonym
+The barrister, accused, Gale	The barrister, stood behind, Gale	antonym
+The barrister, stood behind, Aiden	The barrister, argued against, Aiden	antonym
+The attorney, argued against, Angela Merkel	The attorney, stood behind, Angela Merkel	antonym
+The attorney, represented, Donald Trump	The attorney, prosecuted, Donald Trump	antonym
+The attorney, prosecuted, Bill Gates	The attorney, represented, Bill Gates	antonym
+The lawyer, represented, Sam	The lawyer, accused, Sam	antonym
+The attorney, accused, Jean	The attorney, represented, Jean	antonym
+The lawyer, represented, Angela Merkel	The lawyer, argued against, Angela Merkel	antonym
+The attorney, argued against, Ashley	The attorney, represented, Ashley	antonym
+The lawyer, fought for, Donald Trump	The lawyer, prosecuted, Donald Trump	antonym
+The barrister, prosecuted, Donald Trump	The barrister, fought for, Donald Trump	antonym
+The attorney, fought for, Bobbie	The attorney, accused, Bobbie	antonym
+The attorney, accused, Charlie	The attorney, fought for, Charlie	antonym
+The barrister, fought for, Charlie	The barrister, argued against, Charlie	antonym
+The lawyer, argued against, Donald Trump	The lawyer, fought for, Donald Trump	antonym
+The attorney, argued for, Jeff Bezos	The attorney, prosecuted, Jeff Bezos	antonym
+The barrister, prosecuted, Jean	The barrister, argued for, Jean	antonym
+The lawyer, argued for, Donald Trump	The lawyer, accused, Donald Trump	antonym
+The lawyer, accused, Jeff Bezos	The lawyer, argued for, Jeff Bezos	antonym
+The barrister, argued for, Donald Trump	The barrister, argued against, Donald Trump	antonym
+The attorney, argued against, Jennifer Lawrence	The attorney, argued for, Jennifer Lawrence	antonym
+The attorney, advocated for, Alex	The attorney, prosecuted, Alex	antonym
+The barrister, prosecuted, Angela Merkel	The barrister, advocated for, Angela Merkel	antonym
+The barrister, advocated for, Charlie	The barrister, accused, Charlie	antonym
+The attorney, accused, Jeff Bezos	The attorney, advocated for, Jeff Bezos	antonym
+The barrister, advocated for, Bill Gates	The barrister, argued against, Bill Gates	antonym
+The lawyer, argued against, Sam	The lawyer, advocated for, Sam	antonym
+The attorney, defended, Robin	The attorney, investigated, Robin	directional_entailment
+The attorney, investigated, Gale	The attorney, defended, Gale	directional_non-entailment
+The barrister, protected, Cameron	The barrister, investigated, Cameron	directional_entailment
+The lawyer, investigated, Donald Trump	The lawyer, protected, Donald Trump	directional_non-entailment
+The barrister, stood behind, Jackie	The barrister, investigated, Jackie	directional_entailment
+The barrister, investigated, Sam	The barrister, stood behind, Sam	directional_non-entailment
+The attorney, represented, Billie	The attorney, investigated, Billie	directional_entailment
+The barrister, investigated, Angela Merkel	The barrister, represented, Angela Merkel	directional_non-entailment
+The lawyer, fought for, Ashley	The lawyer, investigated, Ashley	directional_entailment
+The lawyer, investigated, Bobbie	The lawyer, fought for, Bobbie	directional_non-entailment
+The lawyer, argued for, Donald Trump	The lawyer, investigated, Donald Trump	directional_entailment
+The attorney, investigated, Serena Williams	The attorney, argued for, Serena Williams	directional_non-entailment
+The barrister, advocated for, Bill Gates	The barrister, investigated, Bill Gates	directional_entailment
+The lawyer, investigated, Sam	The lawyer, advocated for, Sam	directional_non-entailment
+The attorney, prosecuted, Donald Trump	The attorney, investigated, Donald Trump	directional_entailment
+The attorney, investigated, Jeff Bezos	The attorney, prosecuted, Jeff Bezos	directional_non-entailment
+The barrister, accused, Donald Trump	The barrister, investigated, Donald Trump	directional_entailment
+The lawyer, investigated, Serena Williams	The lawyer, accused, Serena Williams	directional_non-entailment
+The attorney, argued against, Serena Williams	The attorney, investigated, Serena Williams	directional_entailment
+The lawyer, investigated, Jean	The lawyer, argued against, Jean	directional_non-entailment
+The barrister, defended, Kelly	The barrister, questioned, Kelly	directional_entailment
+The lawyer, questioned, Donald Trump	The lawyer, defended, Donald Trump	directional_non-entailment
+The lawyer, protected, Frankie	The lawyer, questioned, Frankie	directional_entailment
+The barrister, questioned, Sam	The barrister, protected, Sam	directional_non-entailment
+The lawyer, stood behind, Elliot	The lawyer, questioned, Elliot	directional_entailment
+The lawyer, questioned, Serena Williams	The lawyer, stood behind, Serena Williams	directional_non-entailment
+The attorney, represented, Sam	The attorney, questioned, Sam	directional_entailment
+The lawyer, questioned, Andy	The lawyer, represented, Andy	directional_non-entailment
+The lawyer, fought for, Jean	The lawyer, questioned, Jean	directional_entailment
+The lawyer, questioned, Jeff Bezos	The lawyer, fought for, Jeff Bezos	directional_non-entailment
+The barrister, argued for, Serena Williams	The barrister, questioned, Serena Williams	directional_entailment
+The barrister, questioned, Serena Williams	The barrister, argued for, Serena Williams	directional_non-entailment
+The lawyer, advocated for, Ashley	The lawyer, questioned, Ashley	directional_entailment
+The lawyer, questioned, Gale	The lawyer, advocated for, Gale	directional_non-entailment
+The lawyer, prosecuted, Alex	The lawyer, questioned, Alex	directional_entailment
+The attorney, questioned, Angela Merkel	The attorney, prosecuted, Angela Merkel	directional_non-entailment
+The barrister, accused, Jennifer Lawrence	The barrister, questioned, Jennifer Lawrence	directional_entailment
+The barrister, questioned, Robin	The barrister, accused, Robin	directional_non-entailment
+The lawyer, argued against, Ali	The lawyer, questioned, Ali	directional_entailment
+The lawyer, questioned, Aiden	The lawyer, argued against, Aiden	directional_non-entailment
+The attorney, defended, Donald Trump	The attorney, argued about, Donald Trump	directional_entailment
+The lawyer, argued about, Bill Gates	The lawyer, defended, Bill Gates	directional_non-entailment
+The attorney, protected, Angela Merkel	The attorney, argued about, Angela Merkel	directional_entailment
+The lawyer, argued about, Bill Gates	The lawyer, protected, Bill Gates	directional_non-entailment
+The barrister, stood behind, Gael	The barrister, argued about, Gael	directional_entailment
+The barrister, argued about, Billie	The barrister, stood behind, Billie	directional_non-entailment
+The lawyer, represented, Jackie	The lawyer, argued about, Jackie	directional_entailment
+The barrister, argued about, Morgan	The barrister, represented, Morgan	directional_non-entailment
+The barrister, fought for, Jeff Bezos	The barrister, argued about, Jeff Bezos	directional_entailment
+The lawyer, argued about, Jeff Bezos	The lawyer, fought for, Jeff Bezos	directional_non-entailment
+The attorney, argued for, Casey	The attorney, argued about, Casey	directional_entailment
+The attorney, argued about, Aiden	The attorney, argued for, Aiden	directional_non-entailment
+The barrister, advocated for, Gale	The barrister, argued about, Gale	directional_entailment
+The attorney, argued about, Angela Merkel	The attorney, advocated for, Angela Merkel	directional_non-entailment
+The attorney, prosecuted, Sam	The attorney, argued about, Sam	directional_entailment
+The lawyer, argued about, Bill Gates	The lawyer, prosecuted, Bill Gates	directional_non-entailment
+The lawyer, accused, Jackie	The lawyer, argued about, Jackie	directional_entailment
+The attorney, argued about, Morgan	The attorney, accused, Morgan	directional_non-entailment
+The barrister, argued against, Bill Gates	The barrister, argued about, Bill Gates	directional_entailment
+The barrister, argued about, Angela Merkel	The barrister, argued against, Angela Merkel	directional_non-entailment
+The barrister, defended, Donald Trump	The barrister, reasoned about, Donald Trump	directional_entailment
+The attorney, reasoned about, Bill Gates	The attorney, defended, Bill Gates	directional_non-entailment
+The attorney, protected, Jeff Bezos	The attorney, reasoned about, Jeff Bezos	directional_entailment
+The attorney, reasoned about, Angela Merkel	The attorney, protected, Angela Merkel	directional_non-entailment
+The barrister, stood behind, Serena Williams	The barrister, reasoned about, Serena Williams	directional_entailment
+The barrister, reasoned about, Jeff Bezos	The barrister, stood behind, Jeff Bezos	directional_non-entailment
+The attorney, represented, Morgan	The attorney, reasoned about, Morgan	directional_entailment
+The lawyer, reasoned about, Serena Williams	The lawyer, represented, Serena Williams	directional_non-entailment
+The lawyer, fought for, Morgan	The lawyer, reasoned about, Morgan	directional_entailment
+The lawyer, reasoned about, Donald Trump	The lawyer, fought for, Donald Trump	directional_non-entailment
+The attorney, argued for, Cameron	The attorney, reasoned about, Cameron	directional_entailment
+The attorney, reasoned about, Aiden	The attorney, argued for, Aiden	directional_non-entailment
+The lawyer, advocated for, Jennifer Lawrence	The lawyer, reasoned about, Jennifer Lawrence	directional_entailment
+The barrister, reasoned about, Jeff Bezos	The barrister, advocated for, Jeff Bezos	directional_non-entailment
+The barrister, prosecuted, Gale	The barrister, reasoned about, Gale	directional_entailment
+The lawyer, reasoned about, Frankie	The lawyer, prosecuted, Frankie	directional_non-entailment
+The attorney, accused, Gael	The attorney, reasoned about, Gael	directional_entailment
+The barrister, reasoned about, Ashley	The barrister, accused, Ashley	directional_non-entailment
+The barrister, argued against, Jennifer Lawrence	The barrister, reasoned about, Jennifer Lawrence	directional_entailment
+The attorney, reasoned about, Ali	The attorney, argued against, Ali	directional_non-entailment
+The barrister, defended, Donald Trump	The barrister, talked about, Donald Trump	directional_entailment
+The lawyer, talked about, Donald Trump	The lawyer, defended, Donald Trump	directional_non-entailment
+The attorney, protected, Casey	The attorney, talked about, Casey	directional_entailment
+The barrister, talked about, Jackie	The barrister, protected, Jackie	directional_non-entailment
+The attorney, stood behind, Sam	The attorney, talked about, Sam	directional_entailment
+The lawyer, talked about, Elliot	The lawyer, stood behind, Elliot	directional_non-entailment
+The lawyer, represented, Bobbie	The lawyer, talked about, Bobbie	directional_entailment
+The lawyer, talked about, Serena Williams	The lawyer, represented, Serena Williams	directional_non-entailment
+The attorney, fought for, Jennifer Lawrence	The attorney, talked about, Jennifer Lawrence	directional_entailment
+The attorney, talked about, Donald Trump	The attorney, fought for, Donald Trump	directional_non-entailment
+The lawyer, argued for, Morgan	The lawyer, talked about, Morgan	directional_entailment
+The attorney, talked about, Jean	The attorney, argued for, Jean	directional_non-entailment
+The barrister, advocated for, Alex	The barrister, talked about, Alex	directional_entailment
+The lawyer, talked about, Aiden	The lawyer, advocated for, Aiden	directional_non-entailment
+The barrister, prosecuted, Gael	The barrister, talked about, Gael	directional_entailment
+The lawyer, talked about, Elliot	The lawyer, prosecuted, Elliot	directional_non-entailment
+The barrister, accused, Jamie	The barrister, talked about, Jamie	directional_entailment
+The lawyer, talked about, Robin	The lawyer, accused, Robin	directional_non-entailment
+The lawyer, argued against, Charlie	The lawyer, talked about, Charlie	directional_entailment
+The lawyer, talked about, Jackie	The lawyer, argued against, Jackie	directional_non-entailment
+The attorney, defended, Serena Williams	The attorney, discussed, Serena Williams	directional_entailment
+The barrister, discussed, Donald Trump	The barrister, defended, Donald Trump	directional_non-entailment
+The barrister, protected, Alex	The barrister, discussed, Alex	directional_entailment
+The barrister, discussed, Alex	The barrister, protected, Alex	directional_non-entailment
+The barrister, stood behind, Frankie	The barrister, discussed, Frankie	directional_entailment
+The lawyer, discussed, Casey	The lawyer, stood behind, Casey	directional_non-entailment
+The barrister, represented, Jennifer Lawrence	The barrister, discussed, Jennifer Lawrence	directional_entailment
+The lawyer, discussed, Jeff Bezos	The lawyer, represented, Jeff Bezos	directional_non-entailment
+The lawyer, fought for, Donald Trump	The lawyer, discussed, Donald Trump	directional_entailment
+The lawyer, discussed, Charlie	The lawyer, fought for, Charlie	directional_non-entailment
+The lawyer, argued for, Serena Williams	The lawyer, discussed, Serena Williams	directional_entailment
+The lawyer, discussed, Robin	The lawyer, argued for, Robin	directional_non-entailment
+The attorney, advocated for, Angela Merkel	The attorney, discussed, Angela Merkel	directional_entailment
+The attorney, discussed, Jeff Bezos	The attorney, advocated for, Jeff Bezos	directional_non-entailment
+The lawyer, prosecuted, Donald Trump	The lawyer, discussed, Donald Trump	directional_entailment
+The lawyer, discussed, Cameron	The lawyer, prosecuted, Cameron	directional_non-entailment
+The barrister, accused, Casey	The barrister, discussed, Casey	directional_entailment
+The lawyer, discussed, Andy	The lawyer, accused, Andy	directional_non-entailment
+The lawyer, argued against, Bill Gates	The lawyer, discussed, Bill Gates	directional_entailment
+The lawyer, discussed, Ashley	The lawyer, argued against, Ashley	directional_non-entailment
+The attorney, defended, Angela Merkel	The attorney, protected, Angela Merkel	paraphrase
+The lawyer, protected, Angela Merkel	The lawyer, defended, Angela Merkel	paraphrase
+The barrister, defended, Kelly	The barrister, stood behind, Kelly	paraphrase
+The lawyer, stood behind, Morgan	The lawyer, defended, Morgan	paraphrase
+The attorney, defended, Charlie	The attorney, represented, Charlie	paraphrase
+The lawyer, represented, Angela Merkel	The lawyer, defended, Angela Merkel	paraphrase
+The attorney, defended, Jennifer Lawrence	The attorney, fought for, Jennifer Lawrence	paraphrase
+The barrister, fought for, Angela Merkel	The barrister, defended, Angela Merkel	paraphrase
+The barrister, defended, Angela Merkel	The barrister, argued for, Angela Merkel	paraphrase
+The barrister, argued for, Jean	The barrister, defended, Jean	paraphrase
+The barrister, defended, Serena Williams	The barrister, advocated for, Serena Williams	paraphrase
+The lawyer, advocated for, Jeff Bezos	The lawyer, defended, Jeff Bezos	paraphrase
+The barrister, protected, Casey	The barrister, stood behind, Casey	paraphrase
+The attorney, stood behind, Jennifer Lawrence	The attorney, protected, Jennifer Lawrence	paraphrase
+The lawyer, protected, Ashley	The lawyer, represented, Ashley	paraphrase
+The attorney, represented, Gael	The attorney, protected, Gael	paraphrase
+The barrister, protected, Morgan	The barrister, fought for, Morgan	paraphrase
+The attorney, fought for, Morgan	The attorney, protected, Morgan	paraphrase
+The lawyer, protected, Angela Merkel	The lawyer, argued for, Angela Merkel	paraphrase
+The lawyer, argued for, Ashley	The lawyer, protected, Ashley	paraphrase
+The attorney, protected, Serena Williams	The attorney, advocated for, Serena Williams	paraphrase
+The lawyer, advocated for, Jennifer Lawrence	The lawyer, protected, Jennifer Lawrence	paraphrase
+The attorney, stood behind, Jennifer Lawrence	The attorney, represented, Jennifer Lawrence	paraphrase
+The attorney, represented, Casey	The attorney, stood behind, Casey	paraphrase
+The lawyer, stood behind, Jennifer Lawrence	The lawyer, fought for, Jennifer Lawrence	paraphrase
+The barrister, fought for, Sam	The barrister, stood behind, Sam	paraphrase
+The lawyer, stood behind, Angela Merkel	The lawyer, argued for, Angela Merkel	paraphrase
+The barrister, argued for, Gael	The barrister, stood behind, Gael	paraphrase
+The attorney, stood behind, Donald Trump	The attorney, advocated for, Donald Trump	paraphrase
+The attorney, advocated for, Charlie	The attorney, stood behind, Charlie	paraphrase
+The attorney, represented, Andy	The attorney, fought for, Andy	paraphrase
+The barrister, fought for, Angela Merkel	The barrister, represented, Angela Merkel	paraphrase
+The attorney, represented, Angela Merkel	The attorney, argued for, Angela Merkel	paraphrase
+The attorney, argued for, Serena Williams	The attorney, represented, Serena Williams	paraphrase
+The attorney, represented, Donald Trump	The attorney, advocated for, Donald Trump	paraphrase
+The attorney, advocated for, Jeff Bezos	The attorney, represented, Jeff Bezos	paraphrase
+The attorney, fought for, Donald Trump	The attorney, argued for, Donald Trump	paraphrase
+The barrister, argued for, Jeff Bezos	The barrister, fought for, Jeff Bezos	paraphrase
+The attorney, fought for, Cameron	The attorney, advocated for, Cameron	paraphrase
+The barrister, advocated for, Donald Trump	The barrister, fought for, Donald Trump	paraphrase
+The attorney, argued for, Elliot	The attorney, advocated for, Elliot	paraphrase
+The lawyer, advocated for, Jennifer Lawrence	The lawyer, argued for, Jennifer Lawrence	paraphrase
+The attorney, prosecuted, Angela Merkel	The attorney, accused, Angela Merkel	paraphrase
+The barrister, accused, Serena Williams	The barrister, prosecuted, Serena Williams	paraphrase
+The lawyer, prosecuted, Jeff Bezos	The lawyer, argued against, Jeff Bezos	paraphrase
+The lawyer, argued against, Jennifer Lawrence	The lawyer, prosecuted, Jennifer Lawrence	paraphrase
+The barrister, accused, Jennifer Lawrence	The barrister, argued against, Jennifer Lawrence	paraphrase
+The attorney, argued against, Cameron	The attorney, accused, Cameron	paraphrase
+Kelly, attended, the show	Kelly, missed, the show	antonym
+Gael, missed, the concert	Gael, attended, the concert	antonym
+Frankie, attended, the match	Frankie, skipped, the match	antonym
+Ashley, skipped, the game	Ashley, attended, the game	antonym
+Billie, went to, the dinner	Billie, missed, the dinner	antonym
+Jamie, missed, the match	Jamie, went to, the match	antonym
+Charlie, went to, the date	Charlie, skipped, the date	antonym
+Sam, skipped, the match	Sam, went to, the match	antonym
+Ashley, saw, the show	Ashley, missed, the show	antonym
+Kelly, missed, the show	Kelly, saw, the show	antonym
+Jean, saw, the show	Jean, skipped, the show	antonym
+Gael, skipped, the show	Gael, saw, the show	antonym
+Casey, watched, the show	Casey, missed, the show	antonym
+Sam, missed, the concert	Sam, watched, the concert	antonym
+Billie, watched, the show	Billie, skipped, the show	antonym
+Ali, skipped, the show	Ali, watched, the show	antonym
+Elliot, participated in, the dinner	Elliot, missed, the dinner	antonym
+Elliot, missed, the wedding	Elliot, participated in, the wedding	antonym
+Charlie, participated in, the date	Charlie, skipped, the date	antonym
+Gale, skipped, the party	Gale, participated in, the party	antonym
+Bobbie, attended, an appointment	Bobbie, had, an appointment	directional_entailment
+Cameron, had, an appointment	Cameron, attended, an appointment	directional_non-entailment
+Alex, went to, an appointment	Alex, had, an appointment	directional_entailment
+Jamie, had, a doctors appointment	Jamie, went to, a doctors appointment	directional_non-entailment
+Ali, missed, a dentist appointment	Ali, had, a dentist appointment	directional_entailment
+Robin, had, a doctors appointment	Robin, missed, a doctors appointment	directional_non-entailment
+Cameron, skipped, a doctors appointment	Cameron, had, a doctors appointment	directional_entailment
+Morgan, had, the meeting	Morgan, skipped, the meeting	directional_non-entailment
+Ashley, attended, the match	Ashley, was invited to, the match	directional_entailment
+Andy, was invited to, the soiree	Andy, attended, the soiree	directional_non-entailment
+Ashley, went to, the date	Ashley, was invited to, the date	directional_entailment
+Gael, was invited to, the match	Gael, went to, the match	directional_non-entailment
+Casey, saw, the concert	Casey, was invited to, the concert	directional_entailment
+Billie, was invited to, the concert	Billie, saw, the concert	directional_non-entailment
+Aiden, watched, the match	Aiden, was invited to, the match	directional_entailment
+Frankie, was invited to, the game	Frankie, watched, the game	directional_non-entailment
+Jamie, participated in, the date	Jamie, was invited to, the date	directional_entailment
+Alex, was invited to, the date	Alex, participated in, the date	directional_non-entailment
+Gale, missed, the game	Gale, was invited to, the game	directional_entailment
+Alex, was invited to, the wedding	Alex, missed, the wedding	directional_non-entailment
+Elliot, skipped, the date	Elliot, was invited to, the date	directional_entailment
+Elliot, was invited to, the match	Elliot, skipped, the match	directional_non-entailment
+Cameron, attended, the party	Cameron, went to, the party	paraphrase
+Gale, went to, the match	Gale, attended, the match	paraphrase
+Casey, attended, the concert	Casey, saw, the concert	paraphrase
+Ali, saw, the game	Ali, attended, the game	paraphrase
+Jean, attended, the game	Jean, watched, the game	paraphrase
+Bobbie, watched, the game	Bobbie, attended, the game	paraphrase
+Billie, attended, the date	Billie, participated in, the date	paraphrase
+Jackie, participated in, the dinner	Jackie, attended, the dinner	paraphrase
+Gale, went to, the match	Gale, saw, the match	paraphrase
+Gale, saw, the concert	Gale, went to, the concert	paraphrase
+Ali, went to, the show	Ali, watched, the show	paraphrase
+Gael, watched, the match	Gael, went to, the match	paraphrase
+Kelly, went to, the wedding	Kelly, participated in, the wedding	paraphrase
+Kelly, participated in, the party	Kelly, went to, the party	paraphrase
+Elliot, saw, the show	Elliot, watched, the show	paraphrase
+Gael, watched, the game	Gael, saw, the game	paraphrase
+Gale, missed, the soiree	Gale, skipped, the soiree	paraphrase
+Ashley, skipped, the wedding	Ashley, missed, the wedding	paraphrase
+Gael, had, food	Gael, lacked, food	antonym
+Robin, lacked, confidence	Robin, had, confidence	antonym
+Ali, had, food	Ali, hurt for, food	antonym
+Elliot, hurt for, confidence	Elliot, had, confidence	antonym
+Jean, had, a friend	Jean, missed, a friend	antonym
+Billie, missed, confidence	Billie, had, confidence	antonym
+Kelly, had, a friend	Kelly, needed, a friend	directional_entailment
+Frankie, needed, a friend	Frankie, had, a friend	directional_non-entailment
+Elliot, lacked, a friend	Elliot, needed, a friend	directional_entailment
+Elliot, needed, food	Elliot, lacked, food	directional_non-entailment
+Kelly, hurt for, a friend	Kelly, needed, a friend	directional_entailment
+Kelly, needed, confidence	Kelly, hurt for, confidence	directional_non-entailment
+Ali, missed, a friend	Ali, needed, a friend	directional_entailment
+Morgan, needed, confidence	Morgan, missed, confidence	directional_non-entailment
+Morgan, lacked, a friend	Morgan, hurt for, a friend	paraphrase
+Ashley, hurt for, a friend	Ashley, lacked, a friend	paraphrase
+Ali, lacked, a friend	Ali, missed, a friend	paraphrase
+Ali, missed, confidence	Ali, lacked, confidence	paraphrase
+Aiden, hurt for, food	Aiden, missed, food	paraphrase
+Charlie, missed, food	Charlie, hurt for, food	paraphrase
+Charlie, had, money	Charlie, lacked, money	antonym
+Bobbie, lacked, money	Bobbie, had, money	antonym
+Jamie, owned, money	Jamie, lacked, money	antonym
+Morgan, lacked, a car	Morgan, owned, a car	antonym
+Jackie, possessed, a car	Jackie, lacked, a car	antonym
+Casey, lacked, a car	Casey, possessed, a car	antonym
+Andy, had, a car	Andy, wanted, a car	directional_entailment
+Frankie, wanted, a car	Frankie, had, a car	directional_non-entailment
+Cameron, owned, a nice apartment	Cameron, wanted, a nice apartment	directional_entailment
+Sam, wanted, money	Sam, owned, money	directional_non-entailment
+Morgan, possessed, a nice apartment	Morgan, wanted, a nice apartment	directional_entailment
+Sam, wanted, a nice apartment	Sam, possessed, a nice apartment	directional_non-entailment
+Aiden, lacked, a nice apartment	Aiden, wanted, a nice apartment	directional_entailment
+Jamie, wanted, money	Jamie, lacked, money	directional_non-entailment
+Gael, had, money	Gael, owned, money	paraphrase
+Andy, owned, a nice apartment	Andy, had, a nice apartment	paraphrase
+Bobbie, had, a nice apartment	Bobbie, possessed, a nice apartment	paraphrase
+Cameron, possessed, money	Cameron, had, money	paraphrase
+Robin, owned, a car	Robin, possessed, a car	paraphrase
+Charlie, possessed, money	Charlie, owned, money	paraphrase
+Cameron, fell short of, the criteria	Cameron, satisfied, the criteria	antonym
+Ashley, satisfied, the conditions	Ashley, fell short of, the conditions	antonym
+Alex, fell short of, the prerequisites	Alex, matched, the prerequisites	antonym
+The robot, matched, the criteria	The robot, fell short of, the criteria	antonym
+Jamie, fell short of, the preconditions	Jamie, complied with, the preconditions	antonym
+Elliot, complied with, the conditions	Elliot, fell short of, the conditions	antonym
+The laptop, fell short of, the requirements	The laptop, fulfilled, the requirements	antonym
+The server, fulfilled, the criteria	The server, fell short of, the criteria	antonym
+The laptop, fell short of, the criteria	The laptop, met, the criteria	antonym
+The server, met, the prerequisites	The server, fell short of, the prerequisites	antonym
+Charlie, failed, the preconditions	Charlie, satisfied, the preconditions	antonym
+Ashley, satisfied, the conditions	Ashley, failed, the conditions	antonym
+Morgan, failed, the conditions	Morgan, complied with, the conditions	antonym
+Aiden, complied with, the preconditions	Aiden, failed, the preconditions	antonym
+Gael, fell short of, the preconditions	Gael, knew, the preconditions	directional_entailment
+Billie, knew, the criteria	Billie, fell short of, the criteria	directional_non-entailment
+Cameron, failed, the preconditions	Cameron, knew, the preconditions	directional_entailment
+Kelly, knew, the preconditions	Kelly, failed, the preconditions	directional_non-entailment
+Bobbie, satisfied, the preconditions	Bobbie, knew, the preconditions	directional_entailment
+Kelly, knew, the preconditions	Kelly, satisfied, the preconditions	directional_non-entailment
+Kelly, matched, the criteria	Kelly, knew, the criteria	directional_entailment
+Bobbie, knew, the requirements	Bobbie, matched, the requirements	directional_non-entailment
+Frankie, complied with, the conditions	Frankie, knew, the conditions	directional_entailment
+Bobbie, knew, the conditions	Bobbie, complied with, the conditions	directional_non-entailment
+Alex, fulfilled, the criteria	Alex, knew, the criteria	directional_entailment
+Charlie, knew, the criteria	Charlie, fulfilled, the criteria	directional_non-entailment
+Charlie, met, the requirements	Charlie, knew, the requirements	directional_entailment
+Bobbie, knew, the prerequisites	Bobbie, met, the prerequisites	directional_non-entailment
+Ashley, fell short of, the criteria	Ashley, was aware of, the criteria	directional_entailment
+Kelly, was aware of, the criteria	Kelly, fell short of, the criteria	directional_non-entailment
+Charlie, failed, the conditions	Charlie, was aware of, the conditions	directional_entailment
+Charlie, was aware of, the preconditions	Charlie, failed, the preconditions	directional_non-entailment
+Jamie, satisfied, the criteria	Jamie, was aware of, the criteria	directional_entailment
+Cameron, was aware of, the prerequisites	Cameron, satisfied, the prerequisites	directional_non-entailment
+Jean, matched, the requirements	Jean, was aware of, the requirements	directional_entailment
+Gale, was aware of, the criteria	Gale, matched, the criteria	directional_non-entailment
+Sam, complied with, the conditions	Sam, was aware of, the conditions	directional_entailment
+Aiden, was aware of, the conditions	Aiden, complied with, the conditions	directional_non-entailment
+Andy, fulfilled, the standards	Andy, was aware of, the standards	directional_entailment
+Elliot, was aware of, the criteria	Elliot, fulfilled, the criteria	directional_non-entailment
+Sam, met, the prerequisites	Sam, was aware of, the prerequisites	directional_entailment
+Charlie, was aware of, the criteria	Charlie, met, the criteria	directional_non-entailment
+Cameron, fell short of, the preconditions	Cameron, was evaluated against, the preconditions	directional_entailment
+Jamie, was evaluated against, the conditions	Jamie, fell short of, the conditions	directional_non-entailment
+Aiden, failed, the preconditions	Aiden, was evaluated against, the preconditions	directional_entailment
+Frankie, was evaluated against, the preconditions	Frankie, failed, the preconditions	directional_non-entailment
+The server, satisfied, the requirements	The server, was evaluated against, the requirements	directional_entailment
+Bobbie, was evaluated against, the requirements	Bobbie, satisfied, the requirements	directional_non-entailment
+The hardware, matched, the prerequisites	The hardware, was evaluated against, the prerequisites	directional_entailment
+The robot, was evaluated against, the requirements	The robot, matched, the requirements	directional_non-entailment
+Ashley, complied with, the conditions	Ashley, was evaluated against, the conditions	directional_entailment
+Andy, was evaluated against, the preconditions	Andy, complied with, the preconditions	directional_non-entailment
+Elliot, fulfilled, the standards	Elliot, was evaluated against, the standards	directional_entailment
+The robot, was evaluated against, the criteria	The robot, fulfilled, the criteria	directional_non-entailment
+Andy, met, the standards	Andy, was evaluated against, the standards	directional_entailment
+Aiden, was evaluated against, the criteria	Aiden, met, the criteria	directional_non-entailment
+The processor, fell short of, the requirements	The processor, was assessed against, the requirements	directional_entailment
+Kelly, was assessed against, the preconditions	Kelly, fell short of, the preconditions	directional_non-entailment
+Gale, failed, the conditions	Gale, was assessed against, the conditions	directional_entailment
+Jamie, was assessed against, the conditions	Jamie, failed, the conditions	directional_non-entailment
+The laptop, satisfied, the prerequisites	The laptop, was assessed against, the prerequisites	directional_entailment
+The laptop, was assessed against, the criteria	The laptop, satisfied, the criteria	directional_non-entailment
+The device, matched, the requirements	The device, was assessed against, the requirements	directional_entailment
+The laptop, was assessed against, the prerequisites	The laptop, matched, the prerequisites	directional_non-entailment
+Elliot, complied with, the preconditions	Elliot, was assessed against, the preconditions	directional_entailment
+Billie, was assessed against, the preconditions	Billie, complied with, the preconditions	directional_non-entailment
+Kelly, fulfilled, the criteria	Kelly, was assessed against, the criteria	directional_entailment
+Billie, was assessed against, the criteria	Billie, fulfilled, the criteria	directional_non-entailment
+Sam, met, the requirements	Sam, was assessed against, the requirements	directional_entailment
+The computer, was assessed against, the standards	The computer, met, the standards	directional_non-entailment
+The computer, fell short of, the standards	The computer, was tested against, the standards	directional_entailment
+The processor, was tested against, the criteria	The processor, fell short of, the criteria	directional_non-entailment
+The computer, satisfied, the standards	The computer, was tested against, the standards	directional_entailment
+The server, was tested against, the standards	The server, satisfied, the standards	directional_non-entailment
+The device, matched, the standards	The device, was tested against, the standards	directional_entailment
+The robot, was tested against, the prerequisites	The robot, matched, the prerequisites	directional_non-entailment
+The device, fulfilled, the prerequisites	The device, was tested against, the prerequisites	directional_entailment
+The software, was tested against, the standards	The software, fulfilled, the standards	directional_non-entailment
+The processor, met, the criteria	The processor, was tested against, the criteria	directional_entailment
+The software, was tested against, the standards	The software, met, the standards	directional_non-entailment
+Billie, fell short of, the conditions	Billie, failed, the conditions	paraphrase
+Elliot, failed, the preconditions	Elliot, fell short of, the preconditions	paraphrase
+Aiden, satisfied, the prerequisites	Aiden, matched, the prerequisites	paraphrase
+Jean, matched, the prerequisites	Jean, satisfied, the prerequisites	paraphrase
+Morgan, satisfied, the preconditions	Morgan, complied with, the preconditions	paraphrase
+Gael, complied with, the conditions	Gael, satisfied, the conditions	paraphrase
+The computer, satisfied, the prerequisites	The computer, fulfilled, the prerequisites	paraphrase
+The computer, fulfilled, the criteria	The computer, satisfied, the criteria	paraphrase
+The laptop, satisfied, the requirements	The laptop, met, the requirements	paraphrase
+The computer, met, the requirements	The computer, satisfied, the requirements	paraphrase
+The keyboard, matched, the prerequisites	The keyboard, fulfilled, the prerequisites	paraphrase
+Aiden, fulfilled, the criteria	Aiden, matched, the criteria	paraphrase
+The server, matched, the requirements	The server, met, the requirements	paraphrase
+Casey, met, the criteria	Casey, matched, the criteria	paraphrase
+Ali, fulfilled, the criteria	Ali, met, the criteria	paraphrase
+The machine, met, the prerequisites	The machine, fulfilled, the prerequisites	paraphrase
